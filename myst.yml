@@ -9,7 +9,7 @@ project:
     - file: content/intro.md
     - title: Content
       children:
-        - pattern: "content/_ch*/*.md"
+        - pattern: "content/_ch*/**"
     
 site:
   template: book-theme
