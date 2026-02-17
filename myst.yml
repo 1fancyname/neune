@@ -6,8 +6,10 @@ project:
   authors: [Jan Müller]
   toc:
     root: content/intro.md
-    numbered: true
     parts:
+    - caption: Introduction
+      numbered: true
+      chapters:
         - file: content/_ch1_biological-foundations/intro.md
           children:
             - pattern: "content/_ch1_biological-foundations/*.md"
