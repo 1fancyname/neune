@@ -6,17 +6,17 @@ project:
   authors: [Jan Müller]
   toc:
     root: content/intro.md
+
     parts:
-    - caption: Introduction
-      numbered: true
-      chapters:
+      - caption: Introduction
+        chapters:
         - file: content/_ch1_biological-foundations/intro.md
-          children:
+          sections:
             - pattern: "content/_ch1_biological-foundations/*.md"
             - pattern: "content/_ch1_biological-foundations/*.ipynb"
 
         - file: content/_ch2_the_perceptron/intro.md
-          children:
+          sections:
             - pattern: "content/_ch2_the_perceptron/*.md"
             - pattern: "content/_ch2_the_perceptron/*.ipynb"
 
