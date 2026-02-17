@@ -9,7 +9,8 @@ project:
     - file: content/intro.md
     - title: Content
       children:
-        - pattern: "content/_ch*/**"
+        - pattern: "content/_ch*/*.md"
+        - pattern: "content/_ch*/*.ipynb"
   bibliography:
     - references.bib
     
