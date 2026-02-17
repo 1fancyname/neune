@@ -1,0 +1,7 @@
+ipython
+ipykernel
+jupyter
+black[jupyter]
+pylint
+numpy
+matplotlib

@@ -10,6 +10,10 @@ project:
     - title: Content
       children:
         - pattern: "content/_ch*/**"
+  bibliography:
+    - references.bib
     
 site:
   template: book-theme
+  options:
+    numbered: true
