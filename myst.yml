@@ -3,7 +3,10 @@ version: 1
 project:
   github: https://github.com/1fancyname/neune
   id: ea7c7de4-409a-4dc1-83d3-3ad690b1c32b
+  title: "Neural Networks"
+  subtitle: "an Introduction"
   authors: [Jan Müller]
+  label: "Neune"
   toc:
     - file: content/intro.md
     - title: Biological Foundations
