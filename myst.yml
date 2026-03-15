@@ -29,6 +29,6 @@ site:
   options:
     numbered: true
     logo:
-      light: assets/logo_light.svg
-      dark: assets/logo_dark.svg
-      logo_link: https://1fancyname.github.io/neune/
+      light: "assets/logo_light.svg"
+      dark: "assets/logo_dark.svg"
+      logo_link: "https://1fancyname.github.io/neune/"
