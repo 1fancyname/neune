@@ -32,3 +32,4 @@ site:
     numbered: true
     logo: "assets/logo_light.svg"
     logo_link: "https://1fancyname.github.io/neune/"
+    favicon: "assets/logo_light.svg"
