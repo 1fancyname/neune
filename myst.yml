@@ -19,6 +19,12 @@ project:
       children:
         - pattern: "content/_ch2_the_perceptron/*.md"
         - pattern: "content/_ch2_the_perceptron/*.ipynb"
+
+    - title: Simple Networks
+      children:
+        - pattern: "content/_ch3_simple_networks/*.md"
+        - pattern: "content/_ch3_simple_networks/*.ipynb"
+        
     - title: Appendix
       children:
         - file: content/appendix/references.md
