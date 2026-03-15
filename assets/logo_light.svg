@@ -27,83 +27,83 @@
 		<title>Zeichenblatt-1</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
-		<g id="shape9-1" v:mID="9" v:groupContext="shape" transform="translate(521.333,-305.659) rotate(26.5651)">
+		<g id="shape9-1" v:mID="9" v:groupContext="shape" transform="translate(447.084,-336.488) rotate(26.5651)">
 			<title>Sheet.9</title>
-			<path d="M0 595.28 L63.38 595.28" class="st1"/>
+			<path d="M0 595.28 L227.37 595.28" class="st1"/>
 		</g>
-		<g id="shape10-4" v:mID="10" v:groupContext="shape" transform="translate(521.333,-248.966) rotate(26.5651)">
+		<g id="shape10-4" v:mID="10" v:groupContext="shape" transform="translate(447.084,-133.125) rotate(26.5651)">
 			<title>Sheet.10</title>
-			<path d="M0 595.28 L63.38 595.28" class="st1"/>
+			<path d="M0 595.28 L227.37 595.28" class="st1"/>
 		</g>
-		<g id="shape11-7" v:mID="11" v:groupContext="shape" transform="translate(-11.0972,-248.966) rotate(-26.5651)">
+		<g id="shape11-7" v:mID="11" v:groupContext="shape" transform="translate(-85.3467,-133.125) rotate(-26.5651)">
 			<title>Sheet.11</title>
-			<path d="M0 595.28 L63.38 595.28" class="st1"/>
+			<path d="M0 595.28 L227.37 595.28" class="st1"/>
 		</g>
-		<g id="shape12-10" v:mID="12" v:groupContext="shape" transform="translate(-183.488,642.011) rotate(-123.69)">
+		<g id="shape12-10" v:mID="12" v:groupContext="shape" transform="translate(-111.068,831.187) rotate(-123.69)">
 			<title>Sheet.12</title>
-			<path d="M0 595.28 L102.2 595.28" class="st1"/>
+			<path d="M0 595.28 L366.62 595.28" class="st1"/>
 		</g>
-		<g id="shape13-13" v:mID="13" v:groupContext="shape" transform="translate(-72.8176,-124.147) rotate(-45)">
+		<g id="shape13-13" v:mID="13" v:groupContext="shape" transform="translate(93.5012,26.1318) rotate(-45)">
 			<title>Sheet.13</title>
-			<path d="M0 595.28 L58.91 595.28" class="st1"/>
+			<path d="M0 595.28 L211.33 595.28" class="st1"/>
 		</g>
-		<g id="shape14-16" v:mID="14" v:groupContext="shape" transform="translate(354.331,-340.157)">
+		<g id="shape14-16" v:mID="14" v:groupContext="shape" transform="translate(536.754,-297.652)">
 			<title>Sheet.14</title>
-			<path d="M0 595.28 L35.43 595.28" class="st1"/>
+			<path d="M0 595.28 L127.1 595.28" class="st1"/>
 		</g>
-		<g id="shape16-19" v:mID="16" v:groupContext="shape" transform="translate(578.026,730.856) rotate(153.435)">
+		<g id="shape16-19" v:mID="16" v:groupContext="shape" transform="translate(650.447,626.692) rotate(153.435)">
 			<title>Sheet.16</title>
-			<path d="M0 595.28 L63.38 595.28" class="st1"/>
+			<path d="M0 595.28 L227.37 595.28" class="st1"/>
 		</g>
-		<g id="shape17-22" v:mID="17" v:groupContext="shape" transform="translate(807.11,528.625) rotate(123.69)">
+		<g id="shape17-22" v:mID="17" v:groupContext="shape" transform="translate(879.531,424.461) rotate(123.69)">
 			<title>Sheet.17</title>
-			<path d="M0 595.28 L102.2 595.28" class="st1"/>
+			<path d="M0 595.28 L366.62 595.28" class="st1"/>
 		</g>
-		<g id="shape18-25" v:mID="18" v:groupContext="shape" transform="translate(769.029,-207.463) rotate(45)">
+		<g id="shape18-25" v:mID="18" v:groupContext="shape" transform="translate(935.348,-272.73) rotate(45)">
 			<title>Sheet.18</title>
-			<path d="M0 595.28 L58.91 595.28" class="st1"/>
+			<path d="M0 595.28 L211.33 595.28" class="st1"/>
 		</g>
-		<g id="shape5-28" v:mID="5" v:groupContext="shape" transform="translate(311.811,-318.898)">
+		<g id="shape5-28" v:mID="5" v:groupContext="shape" transform="translate(384.232,-221.39)">
 			<title>Circle.5</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 574.02 A21.2598 21.2598 0 0 1 42.52 574.02 A21.2598 21.2598 0 1 1 0 574.02 Z" class="st2"/>
+			<path d="M0 519.01 A76.2611 76.2611 0 1 1 152.52 519.01 A76.2611 76.2611 0 0 1 0 519.01 Z" class="st2"/>
 		</g>
-		<g id="shape2-30" v:mID="2" v:groupContext="shape" transform="translate(212.598,-347.244)">
+		<g id="shape2-30" v:mID="2" v:groupContext="shape" transform="translate(28.3465,-323.072)">
 			<title>Circle</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 574.02 A21.2598 21.2598 0 0 1 42.52 574.02 A21.2598 21.2598 0 1 1 0 574.02 Z" class="st3"/>
+			<path d="M0 519.01 A76.2611 76.2611 0 1 1 152.52 519.01 A76.2611 76.2611 0 0 1 0 519.01 Z" class="st3"/>
 		</g>
-		<g id="shape6-32" v:mID="6" v:groupContext="shape" transform="translate(212.598,-290.551)">
+		<g id="shape6-32" v:mID="6" v:groupContext="shape" transform="translate(28.3465,-119.709)">
 			<title>Circle.6</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 574.02 A21.2598 21.2598 0 0 1 42.52 574.02 A21.2598 21.2598 0 1 1 0 574.02 Z" class="st3"/>
+			<path d="M0 519.01 A76.2611 76.2611 0 1 1 152.52 519.01 A76.2611 76.2611 0 0 1 0 519.01 Z" class="st3"/>
 		</g>
-		<g id="shape7-34" v:mID="7" v:groupContext="shape" transform="translate(311.811,-262.205)">
+		<g id="shape7-34" v:mID="7" v:groupContext="shape" transform="translate(384.232,-18.0274)">
 			<title>Circle.7</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 574.02 A21.2598 21.2598 0 0 1 42.52 574.02 A21.2598 21.2598 0 1 1 0 574.02 Z" class="st2"/>
+			<path d="M0 519.01 A76.2611 76.2611 0 1 1 152.52 519.01 A76.2611 76.2611 0 0 1 0 519.01 Z" class="st2"/>
 		</g>
-		<g id="shape8-36" v:mID="8" v:groupContext="shape" transform="translate(389.764,-318.898)">
+		<g id="shape8-36" v:mID="8" v:groupContext="shape" transform="translate(663.856,-221.39)">
 			<title>Circle.8</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 574.02 A21.2598 21.2598 0 0 1 42.52 574.02 A21.2598 21.2598 0 1 1 0 574.02 Z" class="st4"/>
+			<path d="M0 519.01 A76.2611 76.2611 0 1 1 152.52 519.01 A76.2611 76.2611 0 0 1 0 519.01 Z" class="st4"/>
 		</g>
-		<g id="shape15-38" v:mID="15" v:groupContext="shape" transform="translate(311.811,-375.591)">
+		<g id="shape15-38" v:mID="15" v:groupContext="shape" transform="translate(384.232,-424.753)">
 			<title>Circle.15</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
 			</v:userDefs>
-			<path d="M0 574.02 A21.2598 21.2598 0 0 1 42.52 574.02 A21.2598 21.2598 0 1 1 0 574.02 Z" class="st2"/>
+			<path d="M0 519.01 A76.2611 76.2611 0 1 1 152.52 519.01 A76.2611 76.2611 0 0 1 0 519.01 Z" class="st2"/>
 		</g>
 	</g>
 </svg>
