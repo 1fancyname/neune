@@ -28,7 +28,5 @@ site:
   template: book-theme
   options:
     numbered: true
-    logo:
-      light: "assets/logo_light.svg"
-      dark: "assets/logo_dark.svg"
+    logo: "assets/logo_light.svg"
     logo_link: "https://1fancyname.github.io/neune/"
