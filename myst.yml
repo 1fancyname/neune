@@ -19,7 +19,9 @@ project:
       children:
         - pattern: "content/_ch2_the_perceptron/*.md"
         - pattern: "content/_ch2_the_perceptron/*.ipynb"
-
+    - title: Appendix
+      children:
+        - file: content/appendix/references.md
 
   bibliography:
     - references.bib
