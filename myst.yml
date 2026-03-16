@@ -8,6 +8,7 @@ project:
   authors: [Jan Müller]
   label: "Neune"
   toc:
+    - file: content/intro.md
 
     - file: "content/_ch1_biological-foundations/intro.md"
       children: 
