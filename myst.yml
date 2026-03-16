@@ -17,6 +17,7 @@ project:
 
     - title: The Perceptron
       children:
+        - file: content/_ch2_the_perceptron/intro.md
         - pattern: "content/_ch2_the_perceptron/*.md"
         - pattern: "content/_ch2_the_perceptron/*.ipynb"
 
