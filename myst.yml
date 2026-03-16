@@ -17,8 +17,8 @@ project:
 
     - file: content/_ch2_the_perceptron/intro.md
       children:
-        - pattern: "content/_ch2_the_perceptron/*.md"
-        - pattern: "content/_ch2_the_perceptron/*.ipynb"
+        - file: "content/_ch2_the_perceptron/basic_perceptron_math.ipynb"
+        - file: "content/_ch2_the_perceptron/basic_perceptron_py.ipynb"
 
     - title: Simple Networks
       children:
