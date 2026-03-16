@@ -8,26 +8,24 @@ project:
   authors: [Jan Müller]
   label: "Neune"
   toc:
-    - file: content/intro.md
-    - title: Biological Foundations
 
-      children:
-        - pattern: "content/_ch1_biological-foundations/*.md"
-        - pattern: "content/_ch1_biological-foundations/*.ipynb"
+    - file: "content/_ch1_biological-foundations/intro.md"
+      children: 
+        - file: "content/_ch1_biological-foundations/anatomy-of-a-neuron.ipynb"
 
-    - file: content/_ch2_the_perceptron/intro.md
+    - file: "content/_ch2_the_perceptron/intro.md"
       children:
         - file: "content/_ch2_the_perceptron/basic_perceptron_math.ipynb"
         - file: "content/_ch2_the_perceptron/basic_perceptron_py.ipynb"
 
-    - title: Simple Networks
+    - file: "content/_ch3_simple_networks/intro.md"
       children:
-        - pattern: "content/_ch3_simple_networks/*.md"
-        - pattern: "content/_ch3_simple_networks/*.ipynb"
+        - file: "content/_ch3_simple_networks/basic_neural_network_math.ipynb"
+        - file: "content/_ch3_simple_networks/basic_neural_network_py.ipynb"
         
     - title: Appendix
       children:
-        - file: content/appendix/references.md
+        - file: "content/appendix/references.md"
 
   bibliography:
     - references.bib
