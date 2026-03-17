@@ -7,6 +7,6 @@ When discussing the perceptron, it is not always clear what exactly is meant by 
 ---
 name: Perceptron
 alt: Perceptron
-width: 80%
+width: 100%
 ---
 Perceptron 
