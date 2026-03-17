@@ -36,5 +36,6 @@ site:
   options:
     numbered: true
     logo: "assets/logo_light.svg"
+    logo_dark: "assets/logo_dark.svg"
     logo_link: "https://1fancyname.github.io/neune/"
     favicon: "assets/favicon.png"
