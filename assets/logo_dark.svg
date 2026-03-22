@@ -15,7 +15,7 @@
 		.st1 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.5}
 		.st2 {fill:#9dbb61;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st3 {fill:#c05046;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st4 {fill:#ffc000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#ffd965;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
