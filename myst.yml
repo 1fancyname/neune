@@ -17,12 +17,11 @@ project:
     - file: "content/_ch2_the_perceptron/intro.md"
       children:
         - file: "content/_ch2_the_perceptron/basic_perceptron.ipynb"
-        - file: "content/_ch2_the_perceptron/learning_problem.ipynb"
+        - file: "content/_ch2_the_perceptron/learning_mechanism.ipynb"
 
     - file: "content/_ch3_simple_networks/intro.md"
       children:
-        - file: "content/_ch3_simple_networks/basic_neural_network_math.ipynb"
-        - file: "content/_ch3_simple_networks/basic_neural_network_py.ipynb"
+        - file: "content/_ch3_simple_networks/basic_neural_network.ipynb"
         
     - title: Appendix
       children:
