@@ -33,7 +33,7 @@ project:
 site:
   template: book-theme
   options:
-    numbered: true
+    numbered: false
     logo: "assets/logo_light.svg"
     logo_dark: "assets/logo_dark.svg"
     logo_link: "https://1fancyname.github.io/neune/"
